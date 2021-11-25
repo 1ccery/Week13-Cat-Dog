@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\logitpe21\ooPart1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\ooPart1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\ooPart1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\ooPart1\OOPCat\obj\Debug\netcoreapp3.1\OOPCat.csproj.CoreCompileInputs.cache
